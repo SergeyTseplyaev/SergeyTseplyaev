@@ -1,3 +1,21 @@
-.text {
-    
+.avatar {
+    border-radius: 100%;
+    height: 20%;
+    width: 20%;
+}
+
+a {
+    font-weight: 600;
+    color: #990000;
+    transition: 0.5s;
+}
+
+a:hover {
+    color: #FF0000;
+}
+
+h1 {
+    text-align: center;
+    line-height: 1.5;
+    font-weight: normal;
 }
